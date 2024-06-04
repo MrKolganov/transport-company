@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KolganovPS.Models.PetrovDB.Car" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAAAAAEAAAABAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PetrovDB\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.Cargo" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAIAAAAAAAAAAAQAACAAAAAECACAAAAAAAQ=</HashCode>
+      <FileName>Models\PetrovDB\Cargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.Client" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PetrovDB\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.Client_Route" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAEAACAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\PetrovDB\Client_Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.Driver" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAQAA=</HashCode>
+      <FileName>Models\PetrovDB\Driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.PetrovDB" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAACAQAQAAAAAGAAAAAAEAACAAABAACAAAAQAAA=</HashCode>
+      <FileName>Models\PetrovDB\PetrovDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.PetrovSecondDB" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAACAQAQAAAAAGAAAAAAEAACAAABAACAAAAQAAA=</HashCode>
+      <FileName>Models\PetrovDB\PetrovSecondDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.Route" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQACAAAAACAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PetrovDB\Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.Sending" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PetrovDB\Sending.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolganovPS.Models.PetrovDB.Warehouse" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PetrovDB\Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PPMenu.CarRepository" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAAAAAAAgAAEAAEAABAAAAAAAAAA=</HashCode>
+      <FileName>CarRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PPMenu.ConsoleHelper" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PPMenu.CreateMenuItem" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>CreateMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PPMenu.DeleteMenuItem" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>DeleteMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PPMenu.HierarchicalMenuItem" Collapsed="true">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQoAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQ=</HashCode>
+      <FileName>HierarchicalMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PPMenu.Menu" Collapsed="true">
+    <Position X="1" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAgIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PPMenu.MenuItem" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQoAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQ=</HashCode>
+      <FileName>MenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PPMenu.Program" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PPMenu.ReadMenuItem" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ReadMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PPMenu.Repository" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAAAAAAAAAAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PPMenu.UpdateMenuItem" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>UpdateMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PP_KR_2023.DriverRepository" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>DriverRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PP_KR_2023.RouteRepository" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAAAAAAAAAAAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>RouteRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PPMenu.IMenuItem" Collapsed="true">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>IMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PPMenu.IRepository" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAgAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
